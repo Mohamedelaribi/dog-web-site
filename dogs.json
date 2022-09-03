@@ -1,0 +1,103 @@
+[
+    {
+        "serviceName": "security",
+        "serviceImgSrc": "images/david-cain-3W9_ucsvf58-unsplash 2.png",
+        "description": "Security patrol dogs are responsible for guarding premises and large open spaces to secure perimeters against intruders. As part of their job, they are also trained to protect their handler, barking at intruders that they locate and apprehending them.",
+        "dogs": [
+        {
+            "dogName": "Labradors ",
+            "dogImgSrc": "",
+            "dogDetail": [{
+                "Type de poil":"Court",
+                "Origine":"Royaume-Uni",
+                "Gabarit":"Grand",
+                "Forme de la tete":"Carrée",
+                "Poids":"De 28 kg à 33 kg",
+                "Taille":"De 52 cm à 56 cm"
+            }]
+        },
+        {
+            "dogName": "Golden Retrievers",
+            "dogImgSrc": "dog1.png",
+            "dogDetail": [{
+                "Type de poil":"Mi-long",
+                "Origine":"Grande-Bretagne",
+                "Gabarit":"Grand",
+                "Forme de la tete":"Carrée",
+                "Poids":"De 24 kg à 28 kg",
+                "Taille":"De 51 cm à 56 cm"
+            }]
+        },
+        {
+            "dogName": "German Shepherd/ Berger allemand ",
+            "dogImgSrc": "dog1.png",
+            "dogDetail": [{
+                "Type de poil":"Court",
+                "Origine":"Germany",
+                "Gabarit":"Moyen",
+                "Forme de la tete":"Longue",
+                "Poids":"De 30 kg à 41 kg",
+                "Taille":"De 52 cm à 56 cm"
+            }]
+        },
+        {
+            "dogName": "Dobermann",
+            "dogImgSrc": "dog1.png",
+            "dogDetail": [{
+                "Type de poil":"Court",
+                "Origine":"Germany",
+                "Gabarit":"Grand",
+                "Forme de la tete":"Carrée",
+                "Poids":"De 40 kg à 45 kg",
+                "Taille":"De 68 cm à 72 cm"
+            }]
+        },
+        {
+            "dogName": "Bullmastiff",
+            "dogImgSrc": "dog1.png",
+            "dogDetail": [{
+                "Type de poil":"Court",
+                "Origine":"Grande-Bretagne",
+                "Gabarit":"Géant",
+                "Forme de la tete":"Carrée",
+                "Poids":"De 50 kg à 59 kg",
+                "Taille":"De 63 cm à 68 cm"
+            }]
+        }
+        ]
+    },
+    {
+        "serviceName":"Escort service",
+        "serviceImgSrc":"images/Female Alaskan Klee Kai 1.png",
+        "description":"One of the most loyal dogs to their owner, they are acquired as companions and are also beneficial to human health. This type of dog gives its owner a lot of love and sincerity. These dogs are considered the best friend of children and also to protect them from danger. Sometimes owning a dog may help in treating.",
+        "dogs":[{
+            "dogName":"",
+            "dogImgSrc" : "",
+            "dogDetail":[{
+                "Type de poil":"",
+                "Origine": "",
+                "Gabarit":"",
+                "Forme de la tete" : "",
+                "Poids":"",
+                "Taille":""
+            }]
+        }]
+    },
+    {
+    "serviceName":"Hunting service",
+    "serviceImgSrc":"images/akita_inu_hill_dog_nature_67251_640x1136 1.png",
+    "description":"This type of dog is used to help hunters to find prey. these dogs are characterized by speed and a strong sense of smell, which also depends on them to get the prey out of its place. ",
+    "dogs":[{
+        "dogName":"",
+        "dogImgSrc":"",
+        "dogDeteile":[{
+            "Type de poil":"",
+            "Origine":"",
+            "Gabarit":"",
+            "Forme de tete":"",
+            "Poids":"",
+            "Taille":""
+        }]
+    }]
+    }
+]
